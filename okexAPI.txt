@@ -1,0 +1,2 @@
+apikey = "2bed5534-0902-43fb-84dc-c53e3a5ec56f"
+secretkey = "1B39FA1D2A95A6466309D0D29E4B075E"

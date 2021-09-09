@@ -1,0 +1,2 @@
+gasprice,hashpower_accepting,hashpower_accepting2,tx_atabove,age,pct_remaining5m,pct_mined_5m,total_seen_5m,pct_remaining30m,pct_mined_30m,total_seen_30m,average,safelow,nomine,avgdiff,intercept,hpa_coef,avgdiff_coef,tx_atabove_coef,int2,hpa_coef2,sum,expectedWait,expectedTime
+1,62.3931623932,3.6983768235,1286,,0,0,5,0,0,2,3,3,510,1,4.8015,-0.0243,-1.6459,0.0006,6.9238,-0.067,2.4110461538,1000,208.93
